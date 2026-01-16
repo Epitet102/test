@@ -77,6 +77,8 @@ docs: explain Decentralized Identifiers (DID)
 docs: add section on Metaverse real estate
 docs: describe Play-to-Earn (P2E) mechanics
 docs: explain Gas optimization for NFT minting
+docs: add info on IPFS for decentralized storage
+
 
 
 
