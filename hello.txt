@@ -24,6 +24,7 @@ docs: explain proof-of-work (PoW) consensus
 explain proof-of-stake (PoS) consensus
 describe difference between public and private chains
 add info on smart contracts basics
+list common blockchain explorers
 
 
 
