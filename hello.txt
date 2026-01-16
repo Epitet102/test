@@ -37,6 +37,7 @@ add unit tests for calculator logic
 dd section for future features wishlist
 optimize data fetching function performance
 add real-time price updates feature
+refine color palette to be more professional
 
 
 
