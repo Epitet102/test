@@ -34,6 +34,7 @@ implement dark mode toggle functionality
 resolve UI bug on mobile view
 update dependencies list for 2026
 add unit tests for calculator logic
+dd section for future features wishlist
 
 
 
