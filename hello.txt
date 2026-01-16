@@ -26,6 +26,7 @@ describe difference between public and private chains
 add info on smart contracts basics
 list common blockchain explorers
 add definition of 'gas fee'
+explain network confirmation times
 
 
 
