@@ -11,6 +11,8 @@ fix: correct USDT to USDC conversion display
 docs: add donation wallet address
 docs: add section on securing private keys
 docs: mention hardware wallet importance
+docs: advise against sharing seed phrases
+
 
 
 
