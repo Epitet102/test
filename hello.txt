@@ -8,6 +8,8 @@ feat: add simple profit/loss calculator logic
 docs: update installation steps
 refactor: update gas fee calculation constants
 fix: correct USDT to USDC conversion display
+docs: add donation wallet address
+
 
 
 
