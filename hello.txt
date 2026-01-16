@@ -5,5 +5,7 @@ A simple portfolio tracker.
 docs: add API documentation link (CoinGecko)
 style: add crypto-currency symbols and formatting
 feat: add simple profit/loss calculator logic
+docs: update installation steps
+
 
 
