@@ -9,6 +9,8 @@ docs: update installation steps
 refactor: update gas fee calculation constants
 fix: correct USDT to USDC conversion display
 docs: add donation wallet address
+docs: add section on securing private keys
+
 
 
 
