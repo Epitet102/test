@@ -28,6 +28,7 @@ list common blockchain explorers
 add definition of 'gas fee'
 explain network confirmation times
 clarify fork vs soft fork differences
+add diagram sketch for blockchain structure
 
 
 
