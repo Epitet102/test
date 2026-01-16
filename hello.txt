@@ -71,6 +71,8 @@ docs: explain APY vs APR calculations
 docs: add warning about High-Yield scams
 docs: explain NFT metadata and storage
 docs: list major NFT marketplaces
+docs: add info on ERC-721 vs ERC-1155 standards
+
 
 
 
