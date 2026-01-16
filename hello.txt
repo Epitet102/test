@@ -50,6 +50,8 @@ add historical data reference section
 clarify regulatory risks in EU/US
 final polish of documentation
 docs: add section about RSI indicator
+docs: explain Moving Averages (MA) basics
+
 
 
 
