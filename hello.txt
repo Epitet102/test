@@ -21,6 +21,7 @@ fix: correct typo in "hardware wallet" description
 refactor: format security section using bullet points
 docs: define what a blockchain is
 docs: explain proof-of-work (PoW) consensus
+explain proof-of-stake (PoS) consensus
 
 
 
