@@ -1,2 +1,4 @@
 # Crypto Project
 A simple portfolio tracker.
+## Supported Coins
+* BTC, ETH, SOL
