@@ -12,6 +12,8 @@ docs: add donation wallet address
 docs: add section on securing private keys
 docs: mention hardware wallet importance
 docs: advise against sharing seed phrases
+docs: explain 2FA necessity for exchanges
+
 
 
 
