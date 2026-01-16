@@ -56,6 +56,8 @@ docs: describe Fibonacci retracement levels
 docs: add candlestick patterns guide
 docs: explain support and resistance zones
 docs: add Fear and Greed Index description
+docs: explain Volume analysis importance
+
 
 
 
