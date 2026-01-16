@@ -48,6 +48,8 @@ add warning about market volatility risks
 define Non-Fungible Tokens (NFTs)
 add historical data reference section
 clarify regulatory risks in EU/US
+final polish of documentation
+
 
 
 
