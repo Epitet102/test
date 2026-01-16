@@ -88,6 +88,8 @@ docs: add definition for Cold Storage
 docs: add definition for Hot Wallet
 docs: add definition for Mining Pool
 docs: add definition for Halving event
+docs: add definition for Altcoin Season
+
 
 
 
