@@ -57,6 +57,8 @@ docs: add candlestick patterns guide
 docs: explain support and resistance zones
 docs: add Fear and Greed Index description
 docs: explain Volume analysis importance
+docs: add section on On-chain data analysis
+
 
 
 
