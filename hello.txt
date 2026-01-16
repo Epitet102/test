@@ -96,6 +96,8 @@ docs: describe cross-chain bridges functionality
 docs: add info on Layer 2 solutions (Arbitrum, Optimism)
 docs: explain ZK-Rollups vs Optimistic Rollups
 docs: add section about Central Bank Digital Currencies (CBDC)
+docs: describe privacy coins (Monero, Zcash) basics
+
 
 
 
