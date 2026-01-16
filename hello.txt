@@ -41,6 +41,7 @@ refine color palette to be more professional
 update contribution guidelines for PRs
 explain market capitalization definition
 describe bear vs bull market cycles
+add info on stablecoins function (USDT, USDC)
 
 
 
