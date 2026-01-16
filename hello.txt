@@ -90,6 +90,8 @@ docs: add definition for Mining Pool
 docs: add definition for Halving event
 docs: add definition for Altcoin Season
 docs: add links to crypto news aggregators
+docs: list official whitepapers for BTC and ETH
+
 
 
 
