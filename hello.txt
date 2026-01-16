@@ -52,6 +52,8 @@ final polish of documentation
 docs: add section about RSI indicator
 docs: explain Moving Averages (MA) basics
 docs: add info on MACD for trend analysis
+docs: describe Fibonacci retracement levels
+
 
 
 
