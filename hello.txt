@@ -94,6 +94,8 @@ docs: list official whitepapers for BTC and ETH
 docs: add tax reporting tips for crypto assets
 docs: describe cross-chain bridges functionality
 docs: add info on Layer 2 solutions (Arbitrum, Optimism)
+docs: explain ZK-Rollups vs Optimistic Rollups
+
 
 
 
