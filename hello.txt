@@ -3,3 +3,5 @@ A simple portfolio tracker.
 ## Supported Coins
 * BTC, ETH, SOL
 docs: add API documentation link (CoinGecko)
+style: add crypto-currency symbols and formatting
+
