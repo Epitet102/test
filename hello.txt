@@ -46,6 +46,7 @@ list major crypto exchanges (Binance, Coinbase)
 define Decentralized Finance (DeFi)
 add warning about market volatility risks
 define Non-Fungible Tokens (NFTs)
+add historical data reference section
 
 
 
