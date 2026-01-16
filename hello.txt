@@ -42,6 +42,7 @@ update contribution guidelines for PRs
 explain market capitalization definition
 describe bear vs bull market cycles
 add info on stablecoins function (USDT, USDC)
+list major crypto exchanges (Binance, Coinbase)
 
 
 
