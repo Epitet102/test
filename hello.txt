@@ -1,1 +1,2 @@
 # Crypto Project
+A simple portfolio tracker.
