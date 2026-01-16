@@ -31,6 +31,7 @@ clarify fork vs soft fork differences
 add diagram sketch for blockchain structure
 add support for Cardano (ADA) coin
 implement dark mode toggle functionality
+resolve UI bug on mobile view
 
 
 
