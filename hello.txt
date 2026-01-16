@@ -59,6 +59,8 @@ docs: add Fear and Greed Index description
 docs: explain Volume analysis importance
 docs: add section on On-chain data analysis
 docs: describe Order Book and Market Depth
+docs: define Staking and its rewards
+
 
 
 
