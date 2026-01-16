@@ -49,6 +49,8 @@ define Non-Fungible Tokens (NFTs)
 add historical data reference section
 clarify regulatory risks in EU/US
 final polish of documentation
+docs: add section about RSI indicator
+
 
 
 
