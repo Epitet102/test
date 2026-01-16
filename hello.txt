@@ -79,6 +79,8 @@ docs: describe Play-to-Earn (P2E) mechanics
 docs: explain Gas optimization for NFT minting
 docs: add info on IPFS for decentralized storage
 docs: describe Soulbound Tokens (SBT) concept
+docs: add definition for HODL
+
 
 
 
