@@ -1,3 +1,1 @@
-git add hello.txt
-git commit -m "Добавлен тестовый файл hello.txt"
-git push
+# Crypto Project
