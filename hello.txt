@@ -4,4 +4,6 @@ A simple portfolio tracker.
 * BTC, ETH, SOL
 docs: add API documentation link (CoinGecko)
 style: add crypto-currency symbols and formatting
+feat: add simple profit/loss calculator logic
+
 
