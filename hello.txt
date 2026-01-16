@@ -84,6 +84,8 @@ docs: add definition for FOMO
 docs: add definition for FUD
 docs: add definition for Whale
 docs: add definition for Satoshi
+docs: add definition for Cold Storage
+
 
 
 
