@@ -64,6 +64,8 @@ docs: explain Liquid Staking (LST) benefits
 docs: add list of top PoS networks for 2026
 docs: describe Yield Farming basics
 docs: explain Liquidity Pools and AMM
+docs: add info on Impermanent Loss risks
+
 
 
 
