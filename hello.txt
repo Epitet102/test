@@ -7,6 +7,8 @@ style: add crypto-currency symbols and formatting
 feat: add simple profit/loss calculator logic
 docs: update installation steps
 refactor: update gas fee calculation constants
+fix: correct USDT to USDC conversion display
+
 
 
 
