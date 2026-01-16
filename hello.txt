@@ -62,6 +62,8 @@ docs: describe Order Book and Market Depth
 docs: define Staking and its rewards
 docs: explain Liquid Staking (LST) benefits
 docs: add list of top PoS networks for 2026
+docs: describe Yield Farming basics
+
 
 
 
