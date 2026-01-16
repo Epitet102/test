@@ -39,6 +39,7 @@ optimize data fetching function performance
 add real-time price updates feature
 refine color palette to be more professional
 update contribution guidelines for PRs
+explain market capitalization definition
 
 
 
