@@ -81,6 +81,8 @@ docs: add info on IPFS for decentralized storage
 docs: describe Soulbound Tokens (SBT) concept
 docs: add definition for HODL
 docs: add definition for FOMO
+docs: add definition for FUD
+
 
 
 
