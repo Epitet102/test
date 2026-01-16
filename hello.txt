@@ -86,6 +86,8 @@ docs: add definition for Whale
 docs: add definition for Satoshi
 docs: add definition for Cold Storage
 docs: add definition for Hot Wallet
+docs: add definition for Mining Pool
+
 
 
 
