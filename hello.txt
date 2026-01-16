@@ -16,6 +16,8 @@ docs: explain 2FA necessity for exchanges
 docs: add warning about phishing scams
 docs: note on using VPN for public WiFi transactions
 docs: describe secure transaction verification process
+docs: add link to official security best practices
+
 
 
 
