@@ -55,6 +55,8 @@ docs: add info on MACD for trend analysis
 docs: describe Fibonacci retracement levels
 docs: add candlestick patterns guide
 docs: explain support and resistance zones
+docs: add Fear and Greed Index description
+
 
 
 
