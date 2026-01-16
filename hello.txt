@@ -68,6 +68,8 @@ docs: add info on Impermanent Loss risks
 docs: describe Governance tokens utility
 docs: add section on Decentralized Autonomous Orgs (DAO)
 docs: explain APY vs APR calculations
+docs: add warning about High-Yield scams
+
 
 
 
