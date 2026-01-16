@@ -75,6 +75,8 @@ docs: add info on ERC-721 vs ERC-1155 standards
 docs: describe Web3 wallet integration steps
 docs: explain Decentralized Identifiers (DID)
 docs: add section on Metaverse real estate
+docs: describe Play-to-Earn (P2E) mechanics
+
 
 
 
