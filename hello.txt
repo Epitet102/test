@@ -40,6 +40,7 @@ add real-time price updates feature
 refine color palette to be more professional
 update contribution guidelines for PRs
 explain market capitalization definition
+describe bear vs bull market cycles
 
 
 
